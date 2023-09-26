@@ -120,7 +120,7 @@ Write the candidate's resume in English for the following job description:
         print("UPDATING CV...")
         print("---------------------------------------------------")
 
-        document = Document('data/CV_APazzaglia_template.docx')
+        document = Document('data/CV_template.docx')
         for key in self.out_dict:
             replace_text = self.out_dict[key]
             docx_replace_regex(document, key, replace_text)
