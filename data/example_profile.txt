@@ -1,0 +1,23 @@
+#PROFILE: [profile description]
+
+#MANAGER PROJECTS:
+* [manager project 1 description]
+* [manager project 2 description]
+* [manager project 3 description]
+
+#SENIOR DATA SCIENTIST PROJECTS:
+* [senior data scientist project 1 description]
+* [senior data scientist project 2 description]
+* [senior data scientist project 3 description]
+
+#RESEARCH FELLOW PROJECTS:
+* [research fellow project 1 description]
+* [research fellow project 2 description]
+* [research fellow project 3 description]
+
+#KEY WORDS:
+* [keyword 1]
+* [keyword 2]
+* [keyword 3]
+* [keyword 4]
+* [keyword 5]

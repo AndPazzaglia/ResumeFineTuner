@@ -1,0 +1,27 @@
+profile:
+formation: PhD cum Laude in Nuclear and Energy Science and Engineering, Master degree in Nuclear Engineering 
+known technical instruments: Python (Keras, Pytorch, Pandas, scikit-learn, OpenAI, HuggingFace, ...), C++, Matlab, Labview, 
+experience with cloud providers: Google Cloud Platform, Amazon Web Service, Microsoft Azure
+experience: end-to-end AI systems development, junior resources management
+
+manager projects:
+* Custom ChatBot development, based on Large Language Models (OpenAI, HuggingFace), for a famous newspaper.
+* Anomaly detection for telecommunication industry using probabilistic recurrent neural networks.
+* HR advanced analytics for E&U society, classification of misused contracts using large language model.
+* Develop of an AI interface to semantically search and cluster laws from scraped websites. 
+
+senior data scientist projects: 
+* Self-supervised pattern extraction from customers of a trading platform, through multi-modal multi-task variational autoencoders. 
+* Data Science guidelines definition (coding, MLOps, governance) for Energy & Utilities industry. 
+* Long-term budget forecasting and industrialization on cloud (Google Cloud Platform) for Telco industry.
+* Generative AI projects developmenment, consisting in empowering articles with new content and reblending actual content in new forms, for a famous newspaper
+* Data pipeline implementation with Palantir Foundry platform in the field of Financial Services.
+
+research fellow projects:
+* Study of the laser-plasma interaction with numerical simulations and theoretical models.
+* Writing publications in peer-review international journals and presenting results in international conferences.
+* Carry out experiments of laser-plasma acceleration in collaboration with international facilities.
+* Presentation of results at international conferences.
+* Teach physics to first year engineering students.
+* Design and realization of nanostructured materials with advanced techniques.
+
