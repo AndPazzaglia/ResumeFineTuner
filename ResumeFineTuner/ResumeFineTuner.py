@@ -29,6 +29,7 @@ class ResumeFineTuner():
 
         self.system_prompt = '''You are a resume expert and you will write the section of a resume based on actual experience and tuned for the job description that the user asks.
 You will produce the following outputs:
+[Brief reasoning about the tas before producing outputs]
 #PROFILE: high level presentation of candidate tuned for the job description (max 100 words).
 #MANAGER PROJECTS: select and rephrase main projects inherent for the job description among the manager ones (max 3 points).
 #SENIOR DATA SCIENTIST PROJECTS: select and rephrase main projects inherent for the job description among the senior data scientist ones (max 3 points).
@@ -63,7 +64,8 @@ Write the candidate's resume in English for the following job description:
             {"role": "user", "content": self.user_prompt}
         ]
         response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+            # model="gpt-3.5-turbo",
+            model="gpt-4",
             messages=messages,
             temperature=0.5,
             max_tokens=1024
